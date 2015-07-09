@@ -1,0 +1,86 @@
+
+     .-----------------------------------------------------.
+     |  Baddest Batches DayDream linux (c) PMC 1996-2015.  |
+     `-----------------------------------------------------'
+
+        History of Bulletin Generator
+       -------------------------------
+ + added feature,  - general comment,  * fixed.
+
+
+10-30-2000 (03:00) / v1.0b rev10
+==========================
+    * the year date was fucked, fixed.
+
+
+06-10-2000 (13:00) / v1.0b rev9
+==========================
+    * date entry y2k bug, fixed :)
+
+
+05-31-2000 (06:14) / v1.0b rev8
+==========================
+    + batch announcer for eggdrop bots.
+    + generates logfile of any baddest binary run.
+    * compilation shit for daydream v2.10 
+
+
+08-??-1999 (??:??) / v1.0b rev7
+==========================
+    + changed the layout shit to pmcparse.h styled. blaablaah
+    + full ans / asc support for output bulletin files.
+
+
+
+08-??-1999 (??:??) / v1.0b rev6
+==========================
+    - what the hell is going on with the version numbers? :)
+    * avg.cps rate is now working.
+    - optimized a LOT of the code.    
+    + cps limitation. remember dd-ftp/u command...
+    * ansi did not work at all. fixed finally, thanks flower.
+    + all ansi parts added.
+    * byte calculations back to 1024/1024 (no more 1000/1000).
+
+
+02-27-1999 (??:??) / v0.0 rev7
+==========================
+    - started to write documents :)
+
+
+02-18-1999 (??:??) / v0.0 rev6
+==========================
+    + added date routines, made convert (for PMC.Date). fixing colors.
+    + added makefile as working biatch.
+
+
+02-12-1999 (??:??) / v0.0 rev5
+==========================
+    + added .txt and .gfx (ansi) versions. little bit formatting tuning.
+
+
+
+02-09-1990 (??:??) / v0.0 rev4
+==========================
+    + added number of how many users to list in the bulletin.
+
+
+29-01-1999 (??:??) / v0.0 rev3
+==========================
+    * fixed how many users to list. some cosmetics. copyright 99 :)
+
+
+21-18-1998 (??:??) / v0.0 rev2
+==========================
+    + added bulletin ascii alpha version created.
+
+
+11-18-1998 (??:??) / v0.0 rev1
+==========================
+    - basic engine works, bulletin sorting works, bulletin basic works. 
+
+
+??-??-1998 (??:??) / v0.0x
+==========================
+    - Written the first lines of code to this linux-bitch.
+    - actually I did some testing with this way back in '98 at dos c++ but...
